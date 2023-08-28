@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ncademo0711": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7142",
+      "launchBrowser": false
+    }
+  }
+}
